@@ -1,3 +1,4 @@
+"""Модуль адресов для проекта infra."""
 from django.urls import path
 
 from . import views
